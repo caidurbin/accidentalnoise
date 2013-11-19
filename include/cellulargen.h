@@ -46,6 +46,6 @@ class CCellularGenerator
 
 };
 
-};
+}
 
 #endif

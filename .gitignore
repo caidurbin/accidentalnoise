@@ -1,0 +1,7 @@
+build
+.sconsign.dblite
+
+### Ignore compiled python files
+*.pyc
+
+

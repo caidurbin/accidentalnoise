@@ -87,5 +87,5 @@ class CScalarParameter
     double m_val;
     CImplicitModuleBase *m_source;
 };
-};
+}
 #endif
