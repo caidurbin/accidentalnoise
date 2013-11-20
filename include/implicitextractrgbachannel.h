@@ -33,6 +33,6 @@ namespace anl
         CRGBAParameter m_source;
         int m_channel;
     };
-};
+}
 
 #endif

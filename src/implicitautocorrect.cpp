@@ -125,4 +125,4 @@ namespace anl
         double val=m_source->get(x,y,z,w,u,v);
         return std::max(m_low, std::min(m_high, val*m_scale6+m_offset6));
     }
-};
+}

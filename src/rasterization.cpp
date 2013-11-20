@@ -140,4 +140,4 @@ namespace anl
         drawSpansBetweenEdgesRGBA(edges[longEdge], edges[shortEdge1], a,f);
         drawSpansBetweenEdgesRGBA(edges[longEdge], edges[shortEdge2], a,f);;
     }
-};
+}

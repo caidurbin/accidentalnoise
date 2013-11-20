@@ -36,6 +36,6 @@ namespace anl
         double m_spacing;
 
     };
-};
+}
 
 #endif

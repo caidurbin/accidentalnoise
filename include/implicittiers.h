@@ -26,6 +26,6 @@ namespace anl
         int m_numtiers;
         bool m_smooth;
     };
-};
+}
 
 #endif

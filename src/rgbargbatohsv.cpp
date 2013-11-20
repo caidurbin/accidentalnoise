@@ -42,4 +42,4 @@ namespace anl
         RGBAtoHSV(s,d);
         return d;
     }
-};
+}

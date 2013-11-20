@@ -24,6 +24,6 @@ namespace anl
         protected:
         CRGBAParameter m_source1, m_source2;
     };
-};
+}
 
 #endif

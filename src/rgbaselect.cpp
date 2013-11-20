@@ -192,4 +192,4 @@ namespace anl
             else return s2;
         }
     }
-};
+}

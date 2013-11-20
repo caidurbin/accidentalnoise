@@ -41,6 +41,6 @@ namespace anl
         void calculateRotMatrix(double x, double y, double z, double w);
         void calculateRotMatrix(double x, double y, double z, double w, double u, double v);
     };
-};
+}
 
 #endif

@@ -25,6 +25,6 @@ namespace anl
         protected:
         CScalarParameter m_source, m_period, m_offset;
     };
-};
+}
 
 #endif

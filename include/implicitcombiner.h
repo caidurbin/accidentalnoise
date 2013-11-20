@@ -50,6 +50,6 @@ namespace anl
         double Avg_get(double x, double y, double z, double w);
         double Avg_get(double x, double y, double z, double w, double u, double v);
     };
-};
+}
 
 #endif

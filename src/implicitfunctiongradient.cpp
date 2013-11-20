@@ -76,4 +76,4 @@ namespace anl
         }
         return 0.0;
     }
-};
+}

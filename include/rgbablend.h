@@ -27,6 +27,6 @@ namespace anl
         CRGBAParameter m_low, m_high;
         CScalarParameter m_control;
     };
-};
+}
 
 #endif

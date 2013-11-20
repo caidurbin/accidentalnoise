@@ -44,4 +44,4 @@ namespace anl
 
         return s[m_channel];
     }
-};
+}

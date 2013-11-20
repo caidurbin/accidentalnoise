@@ -21,6 +21,6 @@ namespace anl
         protected:
         double m_constant;
     };
-};
+}
 
 #endif

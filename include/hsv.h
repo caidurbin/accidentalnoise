@@ -7,7 +7,7 @@ namespace anl
 {
     void HSVtoRGBA(SRGBA &hsv, SRGBA &rgb);
     void RGBAtoHSV(SRGBA &rgb, SRGBA &hsv);
-};
+}
 
 
 #endif

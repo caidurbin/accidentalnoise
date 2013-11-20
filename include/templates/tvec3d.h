@@ -200,7 +200,7 @@ class TVec3D
     template <typename multiplier> TVec3D<T> operator *(const multiplier &val) const
     {
         return TVec3D<T>(T(vec[0]*val), T(vec[1]*val), T(vec[2]*val));
-    };
+    }
 
     template <typename multiplier> TVec3D<T> &operator *=(const multiplier &val)
     {
@@ -208,7 +208,7 @@ class TVec3D
         vec[1]*=val;
         vec[2]*=val;
         return (*this);
-    };
+    }
 
     TVec3D<T> operator /(const T &val) const
     {

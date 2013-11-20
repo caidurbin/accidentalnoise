@@ -28,6 +28,6 @@ namespace anl
         protected:
         CImplicitModuleBase *m_source;
     };
-};
+}
 
 #endif

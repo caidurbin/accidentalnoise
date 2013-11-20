@@ -15,7 +15,7 @@ namespace anl
         MULTI,
         HYBRIDMULTI,
 		DECARPENTIERSWISS
-};
+	};
 
 
 
@@ -95,5 +95,5 @@ namespace anl
 
     };
 
-};
+}
 #endif

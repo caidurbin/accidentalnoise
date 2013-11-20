@@ -28,7 +28,7 @@ namespace anl
     //double m_scale, m_offset;
     CScalarParameter m_scale, m_offset;
 };
-};
+}
 
 #endif
 

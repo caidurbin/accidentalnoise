@@ -34,4 +34,4 @@ namespace anl
         double va=m_source.get(x,y,z,w, u, v);
         return bias(m_bias.get(x,y,z,w,u,v), va);
     }
-};
+}

@@ -38,6 +38,6 @@ class CImplicitSphere : public CImplicitModuleBase
     CScalarParameter m_radius;
 
 };
-};
+}
 
 #endif

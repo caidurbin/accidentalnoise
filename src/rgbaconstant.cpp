@@ -30,4 +30,4 @@ namespace anl
     {
         return m_rgba;
     }
-};
+}

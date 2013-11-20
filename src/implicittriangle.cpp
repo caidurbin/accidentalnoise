@@ -82,4 +82,4 @@ namespace anl
             return sawtooth(val,period) * s1/offset + sawtooth(-val,period)*s2/(1.0-offset);
         }
     }
-};
+}

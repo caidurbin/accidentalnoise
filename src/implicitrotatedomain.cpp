@@ -189,4 +189,4 @@ namespace anl
         nz = (m_rotmatrix[0][2]*x) + (m_rotmatrix[1][2]*y) + (m_rotmatrix[2][2]*z);
         return m_source.get(nx,ny,nz,w,u,v);
     }
-};
+}

@@ -45,6 +45,6 @@ namespace anl
         CScalarParameter m_c1, m_c2, m_c3, m_c4;
         int m_mode;
     };
-};
+}
 
 #endif

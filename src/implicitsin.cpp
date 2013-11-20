@@ -25,5 +25,5 @@ namespace anl
     {
         return sin(m_source.get(x,y,z,w,u,v));
     }
-};
+}
 

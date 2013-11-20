@@ -267,4 +267,4 @@ namespace anl
         m_rotmatrix[1][2] = ax*sinangle+(1.0-cosangle)*ay*az;
         m_rotmatrix[2][2] = 1.0 + (1.0-cosangle)*(az*az-1.0);
     }
-};
+}

@@ -25,5 +25,5 @@ class CImplicitSawtooth : public CImplicitModuleBase
     CScalarParameter m_period;
 
 };
-};
+}
 #endif

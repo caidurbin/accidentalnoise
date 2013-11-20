@@ -26,5 +26,5 @@ namespace anl
         double m_x, m_y, m_z, m_w, m_u, m_v;
         double m_vlen;
     };
-};
+}
 #endif

@@ -35,6 +35,6 @@ namespace anl
         protected:
         CScalarParameter m_source, m_ax, m_ay, m_az, m_aw, m_au, m_av;
     };
-};
+}
 
 #endif

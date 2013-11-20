@@ -167,7 +167,7 @@ namespace anl
 		}
 
 	};
-};
+}
 
 
 #endif

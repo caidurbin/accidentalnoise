@@ -70,4 +70,4 @@ namespace anl
         c+=threshold;
         return c;
     }
-};
+}

@@ -39,4 +39,4 @@ namespace anl
         double va=m_source.get(x,y,z,w, u, v);
         return gain(m_gain.get(x,y,z,w,u,v), va);
     }
-};
+}

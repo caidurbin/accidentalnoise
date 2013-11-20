@@ -374,4 +374,4 @@ namespace anl
 		if(count==0.0) return 0.0;
 		return value/count;
 	}
-};
+}

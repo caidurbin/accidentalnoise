@@ -24,6 +24,6 @@ class CImplicitCellular : public CImplicitModuleBase
     CCellularGenerator *m_generator;
     double m_coefficients[4];
 };
-};
+}
 
 #endif

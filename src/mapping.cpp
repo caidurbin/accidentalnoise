@@ -128,7 +128,7 @@ namespace anl
 
                     default: break;
                 }
-                a.set(x,y,val);
+                a.set((unsigned int)x,(unsigned int)y,val);
             }
         }
    }
@@ -191,7 +191,7 @@ namespace anl
                     } break;
                     default: break;
                 }
-                a.set(x,y,val);
+                a.set((unsigned int)x,(unsigned int)y,val);
             }
         }
    }
@@ -458,7 +458,7 @@ namespace anl
 
                     default: break;
                 }
-                a.set(x,y,val);
+                a.set((unsigned int)x,(unsigned int)y,val);
             }
         }
    }
@@ -522,7 +522,7 @@ namespace anl
                     } break;
                     default: break;
                 }
-                a.set(x,y,val);
+                a.set((unsigned int)x,(unsigned int)y,val);
             }
         }
    }
@@ -757,4 +757,4 @@ void saveRGBAArray(char *filename, TArray2D<anl::SRGBA> *array)
 	File.close ();
 	return;
 }
-};
+}

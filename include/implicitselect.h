@@ -29,5 +29,5 @@ public:
 	CScalarParameter m_threshold, m_falloff;
 
 };
-};
+}
 #endif

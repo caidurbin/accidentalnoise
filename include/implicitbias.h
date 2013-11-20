@@ -24,6 +24,6 @@ namespace anl
     CScalarParameter m_source;
     CScalarParameter m_bias;
 };
-};
+}
 
 #endif

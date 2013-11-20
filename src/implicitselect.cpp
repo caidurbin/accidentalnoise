@@ -189,4 +189,4 @@ namespace anl
             else return m_high.get(x,y,z,w,u,v);
         }
     }
-};
+}

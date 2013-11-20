@@ -25,7 +25,7 @@ namespace anl
 	typedef TVec4D<unsigned char> SRGBAuc;
 	typedef TVec3D<float> SRGB;
 	typedef TVec4D<float> SRGBA;
-};
+}
 
 
 

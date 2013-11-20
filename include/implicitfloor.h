@@ -21,6 +21,6 @@ namespace anl
         protected:
         CScalarParameter m_source;
     };
-};
+}
 
 #endif

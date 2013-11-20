@@ -27,4 +27,4 @@ namespace anl
     {
         return pow(m_source.get(x,y,z,w,u,v), m_power.get(x,y,z,w,u,v));
     }
-};
+}

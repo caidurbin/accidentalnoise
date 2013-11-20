@@ -22,5 +22,5 @@ namespace anl
         CImplicitModuleBase *m_source;
         double m_low, m_high;
     };
-};
+}
 #endif

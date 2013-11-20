@@ -85,4 +85,4 @@ namespace anl
             (float)(low[2]+control*(high[2]-low[2])),
             (float)(low[3]+control*(high[3]-low[3])));
     }
-};
+}

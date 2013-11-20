@@ -1113,5 +1113,5 @@ template<class T> class TArray3D
     std::vector<T> m_array;
 
 };
-};
+}
 #endif

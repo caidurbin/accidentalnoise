@@ -28,6 +28,6 @@ namespace anl
         CScalarParameter m_source;
         int m_type;
     };
-};
+}
 
 #endif

@@ -54,4 +54,4 @@ namespace anl
         len=sqrtf(len);
         return SRGBA(s[0]/len, s[1]/len, s[2]/len, s[3]);
     }
-};
+}

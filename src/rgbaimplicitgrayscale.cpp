@@ -38,4 +38,4 @@ namespace anl
         double val=m_source->get(x,y,z,w,u,v);
         return SRGBA((float)val,(float)val,(float)val,1.0f);
     }
-};
+}

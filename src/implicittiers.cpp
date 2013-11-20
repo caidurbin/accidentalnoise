@@ -74,4 +74,4 @@ namespace anl
         else s=0.0;
         return Tb+s*(Tt-Tb);
     }
-};
+}

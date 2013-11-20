@@ -58,5 +58,5 @@ namespace anl
         double r=m_length.get(x,y,z,w,u,v);
         return m_source.get(x/len*r, y/len*r, z/len*r, w/len*r, u/len*r, v/len*r);
     }
-};
+}
 

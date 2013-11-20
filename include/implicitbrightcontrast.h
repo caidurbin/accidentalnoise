@@ -28,6 +28,6 @@ namespace anl
         CScalarParameter m_source;
         CScalarParameter m_bright, m_threshold, m_factor;
     };
-};
+}
 
 #endif

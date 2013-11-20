@@ -60,6 +60,6 @@ namespace anl
     void rasterizeImplicitTriangle(int u1, int v1, CVec3f p1, int u2, int v2, CVec3f p2, int u3, int v3, CVec3f p3, CArray2Dd *a, CImplicitModuleBase *f);
     void rasterizeRGBATriangle(int u1, int v1, CVec3f p1, int u2, int v2, CVec3f p2, int u3, int v3, CVec3f p3, CArray2Drgba *a, CRGBAModuleBase *f);
 
-};
+}
 
 #endif

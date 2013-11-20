@@ -54,4 +54,4 @@ double CImplicitCellular::get(double x, double y, double z, double w, double u, 
     return c.f[0]*m_coefficients[0] + c.f[1]*m_coefficients[1] + c.f[2]*m_coefficients[2] + c.f[3]*m_coefficients[3];
 }
 
-};
+}

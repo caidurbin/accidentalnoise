@@ -29,7 +29,7 @@ template<typename TYPE> TYPE clamp(TYPE v, TYPE l, TYPE h)
     if(v>h) v=h;
 
     return v;
-};
+}
 
 template<typename TYPE> TYPE lerp(double t, TYPE a, TYPE b)
 {

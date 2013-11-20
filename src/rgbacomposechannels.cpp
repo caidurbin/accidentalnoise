@@ -3,7 +3,7 @@
 
 namespace anl
 {
-    CRGBACompositeChannels::CRGBACompositeChannels() : m_c1(0), m_c2(0), m_c3(0), m_c4(1), m_mode(RGB){};
+    CRGBACompositeChannels::CRGBACompositeChannels() : m_c1(0), m_c2(0), m_c3(0), m_c4(1), m_mode(RGB){}
     CRGBACompositeChannels::CRGBACompositeChannels(int mode) : m_c1(0), m_c2(0), m_c3(0), m_c4(1), m_mode(mode){}
     CRGBACompositeChannels::~CRGBACompositeChannels(){}
 
@@ -124,4 +124,4 @@ namespace anl
             return rgb;
         }
     }
-};
+}

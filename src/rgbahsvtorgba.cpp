@@ -42,5 +42,5 @@ namespace anl
         HSVtoRGBA(s,d);
         return d;
     }
-};
+}
 

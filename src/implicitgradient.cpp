@@ -81,4 +81,4 @@ double CImplicitGradient::get(double x, double y, double z, double w, double u, 
     //return lerp(clamp(dp,0.0,1.0),1.0,-1.0);
     return dp;
 }
-};
+}

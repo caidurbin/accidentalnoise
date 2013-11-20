@@ -20,6 +20,6 @@ namespace anl
         protected:
         CRGBAParameter m_source;
     };
-};
+}
 
 #endif

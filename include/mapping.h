@@ -46,6 +46,6 @@ namespace anl
 
     void saveDoubleArray(char *filename, TArray2D<double> *array);
     void saveRGBAArray(char *filename, TArray2D<anl::SRGBA> *array);
-};
+}
 
 #endif

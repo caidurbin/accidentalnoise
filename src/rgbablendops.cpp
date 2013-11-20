@@ -89,4 +89,4 @@ namespace anl
 
         return blendRGBAs(s1,s2);
     }
-};
+}

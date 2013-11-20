@@ -23,6 +23,6 @@ namespace anl
         protected:
         SRGBA m_rgba;
     };
-};
+}
 
 #endif

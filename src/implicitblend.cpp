@@ -70,4 +70,4 @@ namespace anl
         double blend=m_control.get(x,y,z,w,u,v);
         return lerp(blend,v1,v2);
 	}
-};
+}

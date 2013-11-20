@@ -12,4 +12,4 @@ namespace anl
 	double CImplicitConstant::get(double x, double y, double z){return m_constant;}
 	double CImplicitConstant::get(double x, double y, double z, double w){return m_constant;}
 	double CImplicitConstant::get(double x, double y, double z, double w, double u, double v){return m_constant;}
-};
+}

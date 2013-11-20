@@ -61,4 +61,4 @@ double CImplicitSawtooth::get(double x, double y, double z, double w, double u, 
 
     return 2.0*(val/p - floor(0.5 + val/p));
 }
-};
+}

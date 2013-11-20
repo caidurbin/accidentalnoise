@@ -25,4 +25,4 @@ namespace anl
     {
         return cos(m_source.get(x,y,z,w,u,v));
     }
-};
+}

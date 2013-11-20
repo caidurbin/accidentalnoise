@@ -24,4 +24,4 @@ namespace anl
     {
         return floor(m_source.get(x,y,z,w,u,v));
     }
-};
+}

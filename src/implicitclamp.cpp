@@ -36,4 +36,4 @@ namespace anl
 
         return clamp(m_source->get(x,y,z,w,u,v),m_low,m_high);
     }
-};
+}

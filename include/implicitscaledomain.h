@@ -35,6 +35,6 @@ class CImplicitScaleDomain : public CImplicitModuleBase
     CScalarParameter m_source;
     CScalarParameter m_sx, m_sy, m_sz, m_sw, m_su, m_sv;
 };
-};
+}
 
 #endif

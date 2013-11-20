@@ -51,6 +51,6 @@ namespace anl
         SRGBA linearDodge(SRGBA &s1, SRGBA &s2);
         SRGBA linearBurn(SRGBA &s1, SRGBA &s2);
     };
-};
+}
 
 #endif

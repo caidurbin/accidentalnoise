@@ -33,6 +33,6 @@ class CImplicitMagnitude : public CImplicitModuleBase
     private:
     CScalarParameter m_x, m_y, m_z, m_w, m_u, m_v;
 };
-};
+}
 #endif
 

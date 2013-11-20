@@ -142,4 +142,4 @@ void HSVtoRGBA(SRGBA &hsv, SRGBA &col)
 
 	col=SRGBA(r,g,b,hsv[3]);
 }
-};
+}

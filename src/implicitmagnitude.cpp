@@ -54,4 +54,4 @@ namespace anl
         return sqrt(xx*xx+yy*yy+zz*zz+ww*ww+uu*uu+vv*vv);
     }
 
-};
+}

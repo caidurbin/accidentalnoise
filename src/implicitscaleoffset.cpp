@@ -51,4 +51,4 @@ namespace anl
 
         return m_source.get(x,y,z,w,u,v)*m_scale.get(x,y,z,w,u,v)+m_offset.get(x,y,z,w,u,v);
     }
-};
+}

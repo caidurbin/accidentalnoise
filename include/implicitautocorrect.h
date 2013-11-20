@@ -39,7 +39,7 @@ namespace anl
         double m_scale6, m_offset6;
 
     };
-};
+}
 
 
 #endif

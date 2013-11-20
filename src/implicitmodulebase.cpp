@@ -77,4 +77,4 @@ double CImplicitModuleBase::get_dv(double x, double y, double z, double w, doubl
     return (get(x,y,z,w,u,v-m_spacing)-get(x,y,z,w,u,v+m_spacing))/m_spacing;
 }
 
-};
+}

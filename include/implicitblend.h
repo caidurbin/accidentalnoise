@@ -26,5 +26,5 @@ namespace anl
         CScalarParameter m_low,m_high,m_control;
 
     };
-};
+}
 #endif

@@ -45,6 +45,6 @@ namespace anl
 
         SRGBA blendRGBAs(SRGBA &s1, SRGBA &s2);
     };
-};
+}
 
 #endif

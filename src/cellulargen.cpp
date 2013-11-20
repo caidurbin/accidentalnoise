@@ -76,4 +76,4 @@ void CCellularGenerator::setSeed(unsigned int seed)
     m_cache6.valid=false;
 }
 
-};
+}

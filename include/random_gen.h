@@ -222,6 +222,6 @@ namespace anl
         public:
         unsigned int z,w,jsr,jcong;
     };
-};
+}
 
 #endif

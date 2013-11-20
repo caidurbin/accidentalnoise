@@ -66,4 +66,4 @@ namespace anl
         }
         return m_c6.val;
     }
-};
+}

@@ -24,6 +24,6 @@ namespace anl
         protected:
         CScalarParameter m_source, m_power;
     };
-};
+}
 
 #endif
